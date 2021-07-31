@@ -6,3 +6,7 @@ http://ip-api.com/json | Detailed
 http://ip-api.com/json?fields=query | JSON
 https://postman-echo.com/ip | JSON
 https://postman-echo.com/ip?format=text | Raw
+https://ip4.seeip.org | Raw
+https://ip.seeip.org | Raw
+https://ip4.seeip.org/json | JSON
+https://ip.seeip.org/json | JSON
