@@ -1,0 +1,8 @@
+https://api64.ipify.org | Raw
+https://api.ipify.org | Raw
+http://ip.42.pl/raw | Raw
+http://ip.42.pl | Detailed
+http://ip-api.com/json | Detailed
+http://ip-api.com/json?fields=query | JSON
+https://postman-echo.com/ip | JSON
+https://postman-echo.com/ip?format=text | Raw
