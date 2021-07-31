@@ -10,3 +10,4 @@ https://ip4.seeip.org | Raw
 https://ip.seeip.org | Raw
 https://ip4.seeip.org/json | JSON
 https://ip.seeip.org/json | JSON
+http://ipv4bot.whatismyipaddress.com | Raw
