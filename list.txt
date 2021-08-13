@@ -13,3 +13,5 @@ https://ip.seeip.org/json | JSON
 http://ipv4bot.whatismyipaddress.com | Raw
 https://api.ip.sb/ip | Raw
 https://ipecho.net/plain | Raw
+https://myexternalip.com/raw | Raw
+https://myexternalip.com/json | JSON
