@@ -15,3 +15,10 @@ https://api.ip.sb/ip | Raw
 https://ipecho.net/plain | Raw
 https://myexternalip.com/raw | Raw
 https://myexternalip.com/json | JSON
+https://extreme-ip-lookup.com/json | JSON
+https://icanhazip.com | Raw
+https://ipinfo.io/ip | Raw
+https://checkip.amazonaws.com | Raw
+https://wtfismyip.com/text | Raw
+https://bot.whatismyipaddress.com | Raw
+http://checkip.dyndns.org | Text
