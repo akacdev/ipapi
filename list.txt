@@ -22,3 +22,7 @@ https://checkip.amazonaws.com | Raw
 https://wtfismyip.com/text | Raw
 https://bot.whatismyipaddress.com | Raw
 http://checkip.dyndns.org | Text
+http://icanhazip.com | Raw
+https://ifconfig.io | Raw, Detailed
+https://ifconfig.in | Raw
+https://ifconfig.me | Raw, Detailed
