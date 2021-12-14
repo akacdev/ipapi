@@ -27,3 +27,4 @@ https://ifconfig.io | Raw, Detailed
 https://ifconfig.in | Raw
 https://ifconfig.me | Raw, Detailed
 https://lumtest.com/myip.json | JSON
+ip4.seeip.org | Raw
