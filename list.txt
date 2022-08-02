@@ -29,3 +29,8 @@ https://ifconfig.me | Raw, Detailed
 https://lumtest.com/myip.json | JSON
 https://ip4.seeip.org | Raw
 https://ipv4.apimon.de | Raw
+http://eth0.me | Raw
+https://api.ip.sb/ip | Raw
+https://api-ipv4.ip.sb/ip | Raw
+https://api.ip.sb/jsonip | JSON
+https://api.ip.sb/geoip | JSON, Detailed
